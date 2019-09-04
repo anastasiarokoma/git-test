@@ -1,0 +1,10 @@
+body{
+    color: rgb(255,0,127);
+    font-family:arial;
+    margin:0px;
+}
+div{
+    min-height: 100vh;
+    width: 100vh;
+    background-color: aquamarine;
+}
